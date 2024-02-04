@@ -1,0 +1,6 @@
+[submodule "fpng"]
+	path = fpng
+	url = git@github.com:richgel999/fpng.git
+[submodule "alpine"]
+	path = alpine
+	url = git@github.com:ms-elk/alpine.git
