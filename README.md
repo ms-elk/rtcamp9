@@ -1,5 +1,5 @@
 # rtcamp9
-This repository is for a renderer submitted to [rtcamp9](https://sites.google.com/view/rtcamp9).
+This repository contains the renderer submitted to [rtcamp9](https://sites.google.com/view/rtcamp9).
 ![image](image.png)
 
 ## Submission
